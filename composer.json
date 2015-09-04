@@ -1,0 +1,17 @@
+{
+  "name": "jayaneetha/azure",
+  "authors": [
+    {
+      "name": "Thejan Rajapakshe",
+      "email": "coder.clix@gmail.com"
+    }
+  ],
+  "require": {"microsoft/windowsazure": "*"},
+  "repositories": [
+    {
+      "type": "pear",
+      "url": "http://pear.php.net"
+    }
+  ],
+  "minimum-stability": "dev"
+}
